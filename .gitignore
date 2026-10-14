@@ -1,0 +1,10 @@
+
+# Python virtual environments
+.venv/
+.venv312/
+**/.venv/
+**/.venv312/
+
+# Python generated files
+__pycache__/
+*.py[cod]
