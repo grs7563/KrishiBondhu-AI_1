@@ -1,0 +1,18 @@
+{
+  "test_accuracy": 0.7528809218950064,
+  "balanced_accuracy": 0.7331447696315117,
+  "macro_f1": 0.7370080387721651,
+  "classes": [
+    "bacterial_leaf_blight",
+    "bacterial_leaf_streak",
+    "bacterial_panicle_blight",
+    "blast",
+    "brown_spot",
+    "dead_heart",
+    "downy_mildew",
+    "hispa",
+    "normal",
+    "tungro"
+  ],
+  "test_samples": 1562
+}
