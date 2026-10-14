@@ -22,7 +22,7 @@ python -m venv .venv
 pip install -r requirements.txt
 uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 ```
-API docs: Open KrishiBondhu AI API Documentation
+API docs: [Open KrishiBondhu AI API Documentation](https://ideal-guacamole-jjvxvp9rgwj427x4-8000.app.github.dev/docs)
 
 Frontend in another terminal:
 ```bash
